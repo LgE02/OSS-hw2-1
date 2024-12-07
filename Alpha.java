@@ -7,5 +7,6 @@ public class Hello {
     }
     public static void FeatureMsg(){
         System.out.println("E");
+        System.out.println("F");
     }
 }
